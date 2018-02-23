@@ -1,0 +1,12 @@
+i = 1
+print("Value of i = ", i)
+i += 5
+print("Value of i = ", i)
+i -= 3
+print("Value of i = ", i)
+i *= 2
+print("Value of i = ", i)
+i **= 2
+print("Value of i = ", i)
+i //= 2
+print("Value of i = ", i)
