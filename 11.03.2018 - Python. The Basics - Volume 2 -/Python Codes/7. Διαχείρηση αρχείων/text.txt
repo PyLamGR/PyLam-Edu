@@ -1,0 +1,7 @@
+Coding in python is awesome
+It's simple, elegant, and fast to learn.
+You just opened a file with 1 line of code.
+Used 1 to read it.
+And one more to close it.
+Total: 3 lines of code.
+How cool is that?
